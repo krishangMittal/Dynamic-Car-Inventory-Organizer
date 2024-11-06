@@ -20,9 +20,6 @@ A Java-based application designed to enhance dealership-used car inventory manag
 - **Data Structure**: Red-Black Tree (RBT) Algorithm
 - **Version Control**: Git & GitHub
 
-
-├
-
 ## Installation and Setup 🚀
 
 ### Prerequisites
