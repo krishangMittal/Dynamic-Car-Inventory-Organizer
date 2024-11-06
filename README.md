@@ -20,18 +20,8 @@ A Java-based application designed to enhance dealership-used car inventory manag
 - **Data Structure**: Red-Black Tree (RBT) Algorithm
 - **Version Control**: Git & GitHub
 
-## Project Structure 📁
 
-```
-Dynamic-Car-Inventory-Organizer/
-│
-├── src/                  # Source files
-│   ├── main/            # Main application code
-│   └── test/            # Test files
-│
-├── docs/                # Documentation
-└── README.md
-```
+├
 
 ## Installation and Setup 🚀
 
@@ -84,10 +74,6 @@ The project uses Git for version control with features including:
 3. Commit your changes (`git commit -m 'Add some NewFeature'`)
 4. Push to the branch (`git push origin feature/NewFeature`)
 5. Open a Pull Request
-
-## License 📝
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact 📧
 
